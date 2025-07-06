@@ -1,1 +1,1 @@
-# cs416-bigdata-private - hate speech analysis. This repository likely contains some of it, hence why it is private.
+# cs416-bigdata-private - hate speech analysis. Contains datasets that contain hates speech. Discretion advised. 
